@@ -162,7 +162,6 @@ a:hover {
     height: 320px;
     padding-top: 20px; 
     object-fit: contain;
-    background-image: url(/bilder/spotify-main.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: 100px;
@@ -219,7 +218,7 @@ div.scroll {
 }
 
 #pic {
-    background-image: url(/sky.jpg);
+    background-image: url(sky.jpg);
 }
 
 .divColumn {
